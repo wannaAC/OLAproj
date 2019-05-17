@@ -1,0 +1,11 @@
+C:\Users\曹炜年\source\repos\在线学习辅助系统\Test\bin\Debug\Test.exe.config
+C:\Users\曹炜年\source\repos\在线学习辅助系统\Test\bin\Debug\Test.exe
+C:\Users\曹炜年\source\repos\在线学习辅助系统\Test\bin\Debug\Test.pdb
+C:\Users\曹炜年\source\repos\在线学习辅助系统\Test\bin\Debug\MySql.Data.dll
+C:\Users\曹炜年\source\repos\在线学习辅助系统\Test\bin\Debug\Google.Protobuf.dll
+C:\Users\曹炜年\source\repos\在线学习辅助系统\Test\bin\Debug\MySql.Data.xml
+C:\Users\曹炜年\source\repos\在线学习辅助系统\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\曹炜年\source\repos\在线学习辅助系统\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\曹炜年\source\repos\在线学习辅助系统\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\曹炜年\source\repos\在线学习辅助系统\Test\obj\Debug\Test.exe
+C:\Users\曹炜年\source\repos\在线学习辅助系统\Test\obj\Debug\Test.pdb

@@ -1,0 +1,10 @@
+C:\Users\曹炜年\source\repos\在线学习辅助系统\在线学习辅助系统\bin\Debug\在线学习辅助系统.exe.config
+C:\Users\曹炜年\source\repos\在线学习辅助系统\在线学习辅助系统\bin\Debug\在线学习辅助系统.exe
+C:\Users\曹炜年\source\repos\在线学习辅助系统\在线学习辅助系统\bin\Debug\在线学习辅助系统.pdb
+C:\Users\曹炜年\source\repos\在线学习辅助系统\在线学习辅助系统\obj\Debug\在线学习辅助系统.csprojAssemblyReference.cache
+C:\Users\曹炜年\source\repos\在线学习辅助系统\在线学习辅助系统\obj\Debug\在线学习辅助系统.Properties.Resources.resources
+C:\Users\曹炜年\source\repos\在线学习辅助系统\在线学习辅助系统\obj\Debug\在线学习辅助系统.csproj.GenerateResource.cache
+C:\Users\曹炜年\source\repos\在线学习辅助系统\在线学习辅助系统\obj\Debug\在线学习辅助系统.csproj.CoreCompileInputs.cache
+C:\Users\曹炜年\source\repos\在线学习辅助系统\在线学习辅助系统\obj\Debug\在线学习辅助系统.exe
+C:\Users\曹炜年\source\repos\在线学习辅助系统\在线学习辅助系统\obj\Debug\在线学习辅助系统.pdb
+C:\Users\曹炜年\source\repos\在线学习辅助系统\在线学习辅助系统\obj\Debug\在线学习辅助系统.FormMain.resources
